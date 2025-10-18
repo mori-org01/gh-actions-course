@@ -9,7 +9,7 @@ jobs:
      - name: Say hello
        run: echo "Hello, World!"
   echo-goodbye:
-    runs-on: ububtu-latet
+    runs-on: ububtu-latest
     steps:
       - name: Failed step
         run: |
