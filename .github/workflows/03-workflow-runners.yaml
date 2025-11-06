@@ -22,4 +22,4 @@ jobs:
       - name: Show OS
         run: echo "This job is running on a MacOS runner."
 
-        $RUNNER_OS
+        
